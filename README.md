@@ -1,2 +1,2 @@
 # Server-Chat-Application
-My Qt c++ developed projects
+Using C++ Qt QTcpServer  QTcpSocket
